@@ -1545,7 +1545,13 @@ footer .footinit .post h6{
     .nav .list{
         margin-right: 10px;
     }
-
+    .contain-form .newcase .content{
+        width: 100%;
+    }
+   .contain-form .newcase .care span{
+    width: 45px;
+    height: 45px;
+   }
 }
 @media screen and (max-width:380px) {
     .down-adjust .first-a{
